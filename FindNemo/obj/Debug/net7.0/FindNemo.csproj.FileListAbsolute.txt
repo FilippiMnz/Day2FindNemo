@@ -1,0 +1,15 @@
+C:\Users\Jarvis\source\repos\FindNemo\FindNemo\bin\Debug\net7.0\FindNemo.exe
+C:\Users\Jarvis\source\repos\FindNemo\FindNemo\bin\Debug\net7.0\FindNemo.deps.json
+C:\Users\Jarvis\source\repos\FindNemo\FindNemo\bin\Debug\net7.0\FindNemo.runtimeconfig.json
+C:\Users\Jarvis\source\repos\FindNemo\FindNemo\bin\Debug\net7.0\FindNemo.dll
+C:\Users\Jarvis\source\repos\FindNemo\FindNemo\bin\Debug\net7.0\FindNemo.pdb
+C:\Users\Jarvis\source\repos\FindNemo\FindNemo\obj\Debug\net7.0\FindNemo.csproj.AssemblyReference.cache
+C:\Users\Jarvis\source\repos\FindNemo\FindNemo\obj\Debug\net7.0\FindNemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jarvis\source\repos\FindNemo\FindNemo\obj\Debug\net7.0\FindNemo.AssemblyInfoInputs.cache
+C:\Users\Jarvis\source\repos\FindNemo\FindNemo\obj\Debug\net7.0\FindNemo.AssemblyInfo.cs
+C:\Users\Jarvis\source\repos\FindNemo\FindNemo\obj\Debug\net7.0\FindNemo.csproj.CoreCompileInputs.cache
+C:\Users\Jarvis\source\repos\FindNemo\FindNemo\obj\Debug\net7.0\FindNemo.dll
+C:\Users\Jarvis\source\repos\FindNemo\FindNemo\obj\Debug\net7.0\refint\FindNemo.dll
+C:\Users\Jarvis\source\repos\FindNemo\FindNemo\obj\Debug\net7.0\FindNemo.pdb
+C:\Users\Jarvis\source\repos\FindNemo\FindNemo\obj\Debug\net7.0\FindNemo.genruntimeconfig.cache
+C:\Users\Jarvis\source\repos\FindNemo\FindNemo\obj\Debug\net7.0\ref\FindNemo.dll
